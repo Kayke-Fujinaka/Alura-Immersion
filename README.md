@@ -4,5 +4,3 @@ Todos eles foram realizados no Codepen.
 Projeto Aula 1: https://codepen.io/kayke-fujinaka/pen/XWzQNGp
 
 Projeto Aula 2: https://codepen.io/kayke-fujinaka/pen/PoOvLyr
-=======
->>>>>>> 69ac6757393195c6114f357719a6ecb2f896dbe8
