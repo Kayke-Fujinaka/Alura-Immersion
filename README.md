@@ -5,3 +5,4 @@ Projeto Aula 1: https://codepen.io/kayke-fujinaka/pen/XWzQNGp
 
 Projeto Aula 2: https://codepen.io/kayke-fujinaka/pen/PoOvLyr
 
+Projeto Aula 3: https://codepen.io/kayke-fujinaka/pen/yLPdZPQ?editors=0011
