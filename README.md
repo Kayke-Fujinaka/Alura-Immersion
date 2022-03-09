@@ -2,7 +2,6 @@ Aqui vou deixar guardado alguns projetos que fiz durante a Imersão Dev_ da Alur
 Todos eles foram realizados no Codepen.
 
 Projeto Aula 1: https://codepen.io/kayke-fujinaka/pen/XWzQNGp
-<<<<<<< HEAD
 
 Projeto Aula 2: https://codepen.io/kayke-fujinaka/pen/PoOvLyr
 =======
