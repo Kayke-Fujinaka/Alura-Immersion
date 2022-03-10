@@ -38,11 +38,17 @@ body {
     padding: 10px;
 }
 
+.o {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .secao {
     justify-content: center;
     align-items: center;
     background-color: white;
-    margin: 0 auto;
+
     width: 30%;
     padding: 50px;
     border-radius: 15px;
